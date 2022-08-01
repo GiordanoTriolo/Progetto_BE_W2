@@ -1,0 +1,25 @@
+Creare le classi necessarie a gestire un catalogo bibliotecario.
+Il catalogo è formato da elementi che possono
+essere Libri o Riviste. 
+Sia Libri che riviste hanno i seguenti attributi
+COdice isbn (COdice univoco
+tolo
+Anno pubblicazione
+Numero pagine
+libri hanno inoltre:
+Autore
+Genere
+Le riviste hanno:
+Periodicità SETTIMANALE, MENSILE, SEMESTRALE]
+
+L'archivio deve permettere le seguenti operazioni:
+Aggiunta di un elemento
+Rimozione di un elemento dato un codice ISBN
+Ricerca per ISBN
+Ricerca per anno pubblicazione
+Ricerca per autore
+salvataggio su disco dell'archivio
+- caricamento dal disco dell'archivio
+Per l'implementazione degli algoritmi si impieghino i Java Streams e le Lambda expression
+
+

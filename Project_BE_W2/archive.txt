@@ -1,0 +1,4 @@
+FOUND ------- Book [author: J.R.R Tolkien, genre: Novel - [isbn: B0001, title: The Lord of the Rings, year: 1955, pages: 1200]] ------- 
+FOUND ------- Book [author: J.R.R Tolkienn, genre: Novel - [isbn: B0002, title: The Lordd of the Ringss, year: 1955, pages: 1200]] ------- 
+FOUND ------- Book [author: J.R.R Tolkiennn, genre: Novel - [isbn: B0003, title: The Lorddd of the Ringsss, year: 1955, pages: 1200]] ------- 
+FOUND ------- Magazine [periodicity: MONTHLY - [isbn: M0001, title: Focus, year: 2022, pages: 60]] ------- 
